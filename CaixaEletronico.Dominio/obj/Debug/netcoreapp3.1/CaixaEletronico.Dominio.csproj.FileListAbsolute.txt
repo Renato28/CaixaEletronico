@@ -1,0 +1,9 @@
+C:\Users\SAMSUNG\source\repos\CaixaEletronico\CaixaEletronico.Dominio\bin\Debug\netcoreapp3.1\CaixaEletronico.Dominio.deps.json
+C:\Users\SAMSUNG\source\repos\CaixaEletronico\CaixaEletronico.Dominio\bin\Debug\netcoreapp3.1\CaixaEletronico.Dominio.dll
+C:\Users\SAMSUNG\source\repos\CaixaEletronico\CaixaEletronico.Dominio\bin\Debug\netcoreapp3.1\CaixaEletronico.Dominio.pdb
+C:\Users\SAMSUNG\source\repos\CaixaEletronico\CaixaEletronico.Dominio\obj\Debug\netcoreapp3.1\CaixaEletronico.Dominio.csprojAssemblyReference.cache
+C:\Users\SAMSUNG\source\repos\CaixaEletronico\CaixaEletronico.Dominio\obj\Debug\netcoreapp3.1\CaixaEletronico.Dominio.AssemblyInfoInputs.cache
+C:\Users\SAMSUNG\source\repos\CaixaEletronico\CaixaEletronico.Dominio\obj\Debug\netcoreapp3.1\CaixaEletronico.Dominio.AssemblyInfo.cs
+C:\Users\SAMSUNG\source\repos\CaixaEletronico\CaixaEletronico.Dominio\obj\Debug\netcoreapp3.1\CaixaEletronico.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\SAMSUNG\source\repos\CaixaEletronico\CaixaEletronico.Dominio\obj\Debug\netcoreapp3.1\CaixaEletronico.Dominio.dll
+C:\Users\SAMSUNG\source\repos\CaixaEletronico\CaixaEletronico.Dominio\obj\Debug\netcoreapp3.1\CaixaEletronico.Dominio.pdb

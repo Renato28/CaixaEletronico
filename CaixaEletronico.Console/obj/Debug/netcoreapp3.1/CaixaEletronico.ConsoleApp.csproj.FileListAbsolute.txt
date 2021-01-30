@@ -1,0 +1,16 @@
+C:\Users\SAMSUNG\source\repos\CaixaEletronico\CaixaEletronico.Console\bin\Debug\netcoreapp3.1\CaixaEletronico.ConsoleApp.exe
+C:\Users\SAMSUNG\source\repos\CaixaEletronico\CaixaEletronico.Console\bin\Debug\netcoreapp3.1\CaixaEletronico.ConsoleApp.deps.json
+C:\Users\SAMSUNG\source\repos\CaixaEletronico\CaixaEletronico.Console\bin\Debug\netcoreapp3.1\CaixaEletronico.ConsoleApp.runtimeconfig.json
+C:\Users\SAMSUNG\source\repos\CaixaEletronico\CaixaEletronico.Console\bin\Debug\netcoreapp3.1\CaixaEletronico.ConsoleApp.runtimeconfig.dev.json
+C:\Users\SAMSUNG\source\repos\CaixaEletronico\CaixaEletronico.Console\bin\Debug\netcoreapp3.1\CaixaEletronico.ConsoleApp.dll
+C:\Users\SAMSUNG\source\repos\CaixaEletronico\CaixaEletronico.Console\bin\Debug\netcoreapp3.1\CaixaEletronico.ConsoleApp.pdb
+C:\Users\SAMSUNG\source\repos\CaixaEletronico\CaixaEletronico.Console\obj\Debug\netcoreapp3.1\CaixaEletronico.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\SAMSUNG\source\repos\CaixaEletronico\CaixaEletronico.Console\obj\Debug\netcoreapp3.1\CaixaEletronico.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\SAMSUNG\source\repos\CaixaEletronico\CaixaEletronico.Console\obj\Debug\netcoreapp3.1\CaixaEletronico.ConsoleApp.AssemblyInfo.cs
+C:\Users\SAMSUNG\source\repos\CaixaEletronico\CaixaEletronico.Console\obj\Debug\netcoreapp3.1\CaixaEletronico.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\SAMSUNG\source\repos\CaixaEletronico\CaixaEletronico.Console\obj\Debug\netcoreapp3.1\CaixaEletronico.ConsoleApp.dll
+C:\Users\SAMSUNG\source\repos\CaixaEletronico\CaixaEletronico.Console\obj\Debug\netcoreapp3.1\CaixaEletronico.ConsoleApp.pdb
+C:\Users\SAMSUNG\source\repos\CaixaEletronico\CaixaEletronico.Console\obj\Debug\netcoreapp3.1\CaixaEletronico.ConsoleApp.genruntimeconfig.cache
+C:\Users\SAMSUNG\source\repos\CaixaEletronico\CaixaEletronico.Console\bin\Debug\netcoreapp3.1\CaixaEletronico.Dominio.dll
+C:\Users\SAMSUNG\source\repos\CaixaEletronico\CaixaEletronico.Console\bin\Debug\netcoreapp3.1\CaixaEletronico.Dominio.pdb
+C:\Users\SAMSUNG\source\repos\CaixaEletronico\CaixaEletronico.Console\obj\Debug\netcoreapp3.1\CaixaEletronico.ConsoleApp.csproj.CopyComplete
