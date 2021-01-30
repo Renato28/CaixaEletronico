@@ -8,6 +8,10 @@ namespace CaixaEletronico.Dominio.Persistencia
 {
     public class Contexto : DbContext
     {
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        {
+            optionsBuilder.UseSqlServer("");
+        }
         public DbSet<Cliente> Clientes { get; set; }
 
 
