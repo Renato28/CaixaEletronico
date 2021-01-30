@@ -6,6 +6,12 @@ namespace CaixaEletronico.Dominio.Entidades
 {
     public class Cliente
     {
+        public Cliente()
+        {
+            Contas = new List<Conta>();
+        }
+            
+
         public int ClienteId { get; set; }
 
         public string Nome { get; set; }
